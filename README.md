@@ -22,3 +22,7 @@ The goal is to create the ability for competitive advertisers in the auto transp
 
 ### What are the technical requirements?
 Widget: Proof of concept should include a progressive widget with 3 views (show transporters, submit information and thank you confirmation). Javascript needs to be embeddable, inserting into the parent dom. The widget needs to be able to integrate into any parent document (website) without dependencies required by the parent website. The working proof of concept should take no more than 2 hours to complete.
+
+### Issues
+- Not as parent style-agnostic as it needs to be
+- Would be much more flexible as a browser WC with polyfill
