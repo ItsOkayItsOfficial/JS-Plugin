@@ -34,6 +34,7 @@
       <p> ${tag} </p>
       </div>
       <h2 style=${stylePrice}> ${price} </h2>
+      <p style='font-size:0.5em'>est</p>
       `
 
     return quoteDiv;
