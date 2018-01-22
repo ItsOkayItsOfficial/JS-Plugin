@@ -12,7 +12,7 @@ The goal is to create the ability for competitive advertisers in the auto transp
 ### Why build it?
 1. Opportunity to generate leads through means other than paid search ads
 2. Previous deep knowledge of need of user base matches concept
-3. Lead monetization opportunity through lack of ad cost risk for IRELO
+3. Lead monetization opportunity through lack of ad cost risk
 4. Co-op advertiser risk very low
 
 ### What are the business requirements?
