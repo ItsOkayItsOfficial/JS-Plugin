@@ -12,7 +12,7 @@ The goal is to create the ability for competitive advertisers in the auto transp
 ### Why build it?
 1. Opportunity to generate leads through means other than paid search ads
 2. Previous deep knowledge of need of user base matches concept
-3. Lead monetization opportunity through lack of ad cost risk for IRELO
+3. Lead monetization opportunity through lack of ad cost risk
 4. Co-op advertiser risk very low
 
 ### What are the business requirements?
@@ -22,3 +22,7 @@ The goal is to create the ability for competitive advertisers in the auto transp
 
 ### What are the technical requirements?
 Widget: Proof of concept should include a progressive widget with 3 views (show transporters, submit information and thank you confirmation). Javascript needs to be embeddable, inserting into the parent dom. The widget needs to be able to integrate into any parent document (website) without dependencies required by the parent website. The working proof of concept should take no more than 2 hours to complete.
+
+### Issues
+- Not as parent style-agnostic as it needs to be
+- Would be much more flexible as a browser WC with polyfill
