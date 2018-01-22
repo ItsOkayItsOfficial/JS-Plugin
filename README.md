@@ -26,3 +26,4 @@ Widget: Proof of concept should include a progressive widget with 3 views (show 
 ### Issues
 - Not as parent style-agnostic as it needs to be
 - Would be much more flexible as a browser WC with polyfill
+- Static quotes/plugin card body would work better if pulled from API
